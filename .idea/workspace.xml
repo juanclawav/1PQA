@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd246ce8-113d-47a3-9475-2c197043a1a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ej1/DescuentoSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ej1/DescuentoSalarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dd246ce8-113d-47a3-9475-2c197043a1a4" name="Changes" comment="Parcial1 - Commit1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ej2/TicketChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ej2/VueloReserva.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/prueba/TestPrueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej1/DescuentoSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej1/DescuentoSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ej1/DescuentoSalarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej1/DescuentoSalarioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,11 +122,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696422952799</updated>
-      <workItem from="1696451626324" duration="5363000" />
+      <workItem from="1696451626324" duration="6868000" />
     </task>
+    <task id="LOCAL-00001" summary="Parcial1 - Commit1">
+      <created>1696459030086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696459030086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Parcial 1 commit 1" />
+    <MESSAGE value="Parcial1 - Commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parcial1 - Commit1" />
   </component>
 </project>

@@ -2,14 +2,15 @@ package ej1;
 
 public class DescuentoSalario {
     public static double calcularDescuento(double salario) {
-        if (salario <= 0) {
-            throw new IllegalArgumentException("Salario no válido");
-        } else if (salario <= 2000) {
-            return 0.0;
-        } else if (salario <= 4000) {
-            return 0.05;
+        if (salario < 0){
+            throw new IllegalArgumentException("salario negativo");
+        }
+        if (salario <= 2000){
+            return salario;
+        } else if (salario <= 4000){
+            return Math.round(salario * 0.95);
         } else {
-            return 0.15;
+            return salario * 0.9;
         }
     }
-}
+    }
