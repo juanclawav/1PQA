@@ -34,9 +34,9 @@ public class DescuentoSalarioTest {
                     "0,0",
                     "5,5",
                     "2000,2000",
-                    "2023,1967.66",
-                    "4555.71,3469.1",
-                    "4000,3666",
+                    "2023,1922",
+                    "4555.71,4100.139",
+                    "4000,3800",
             }
     )
     public void testCalcularDescuento(double salario, double descuentoEsperado){

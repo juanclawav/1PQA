@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd246ce8-113d-47a3-9475-2c197043a1a4" name="Changes" comment="Parcial1 - Commit1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ej2/TicketChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ej2/VueloReserva.java" afterDir="false" />
+    <list default="true" id="dd246ce8-113d-47a3-9475-2c197043a1a4" name="Changes" comment="Parcial1 - Commit2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ej2/VueloReservaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ej1/DescuentoSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej1/DescuentoSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ej2/TicketChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ej2/TicketChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ej1/DescuentoSalarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ej1/DescuentoSalarioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.TestPrueba.prueba">
+  <component name="RunManager">
     <configuration name="TestPrueba" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -122,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696422952799</updated>
-      <workItem from="1696451626324" duration="6868000" />
+      <workItem from="1696451626324" duration="7504000" />
     </task>
     <task id="LOCAL-00001" summary="Parcial1 - Commit1">
       <created>1696459030086</created>
@@ -131,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696459030086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parcial1 - Commit2">
+      <created>1696460548291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696460548291</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Parcial 1 commit 1" />
     <MESSAGE value="Parcial1 - Commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parcial1 - Commit1" />
+    <MESSAGE value="Parcial1 - Commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parcial1 - Commit2" />
   </component>
 </project>

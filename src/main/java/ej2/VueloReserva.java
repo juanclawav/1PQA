@@ -1,10 +1,9 @@
 package ej2;
 
 public class VueloReserva {
-    public class ReservaVuelos {
         private TicketChecker check;
 
-        public void setReservaVuelosHelper(TicketChecker check) {
+        public void setTicketChecker(TicketChecker check) {
             this.check = check;
         }
 
@@ -25,4 +24,3 @@ public class VueloReserva {
         }
     }
 
-}
